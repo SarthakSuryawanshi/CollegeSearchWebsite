@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "address": "Powai, Mumbai, Maharashtra 400076",
+    "contact_number": "022-2572-2545",
+    "courses": "B.Tech IT, M.Tech CSE, MBA",
+    "type": "Both",
+    "website": "https://www.iitb.ac.in"
+  },
+  {
+    "name": "Narsee Monjee Institute of Management Studies",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "address": "Vile Parle, Mumbai, Maharashtra 400056",
+    "contact_number": "022-4233-5000",
+    "courses": "MBA, BBA, PGDM",
+    "type": "Management",
+    "website": "https://www.nmims.edu"
+  },
+  {
+    "name": "Vishwakarma Institute of Technology",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "address": "Bibwewadi, Pune, Maharashtra 411037",
+    "contact_number": "020-2428-7000",
+    "courses": "B.Tech CSE, B.Tech IT",
+    "type": "IT",
+    "website": "https://www.vit.edu"
+  },
+  {
+    "name": "Symbiosis Institute of Business Management",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "address": "Viman Nagar, Pune, Maharashtra 411014",
+    "contact_number": "020-2811-3000",
+    "courses": "MBA, PGDM",
+    "type": "Management",
+    "website": "https://www.sibmpune.edu.in"
+  },
+  {
+    "name": "Delhi Technological University",
+    "city": "Delhi",
+    "state": "Delhi",
+    "address": "Shahbad Daulatpur, Delhi 110042",
+    "contact_number": "011-2787-1023",
+    "courses": "B.Tech IT, B.Tech CSE, MBA",
+    "type": "Both",
+    "website": "https://www.dtu.ac.in"
+  },
+  {
+    "name": "Indian Institute of Management Ahmedabad",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "address": "Vastrapur, Ahmedabad, Gujarat 380015",
+    "contact_number": "079-6632-4000",
+    "courses": "MBA, PGP",
+    "type": "Management",
+    "website": "https://www.iima.ac.in"
+  },
+  {
+    "name": "PSG College of Technology",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "address": "Peelamedu, Coimbatore, Tamil Nadu 641004",
+    "contact_number": "0422-2572177",
+    "courses": "B.Tech IT, B.Tech CSE, MBA",
+    "type": "Both",
+    "website": "https://www.psgtech.edu"
+  },
+  {
+    "name": "Xavier Institute of Management",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "address": "Xavier Square, Bhubaneswar, Odisha 751013",
+    "contact_number": "0674-3983700",
+    "courses": "MBA, PGDM",
+    "type": "Management",
+    "website": "https://www.xim.edu.in"
+  },
+  {
+    "name": "Manipal Institute of Technology",
+    "city": "Manipal",
+    "state": "Karnataka",
+    "address": "Madhav Nagar, Manipal, Karnataka 576104",
+    "contact_number": "0820-2925001",
+    "courses": "B.Tech IT, B.Tech CSE",
+    "type": "IT",
+    "website": "https://manipal.edu"
+  },{
+  "name": "Great Lakes Institute of Management",
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "address": "Manamai Village, Chennai, Tamil Nadu 603102",
+  "contact_number": "044-30512000",
+  "courses": "MBA, PGPM",
+  "type": "Management",
+  "website": "https://www.greatlakes.edu.in"
+},{
+  "name": "Sri Balaji University Pune",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "address": "S.No. 55/2-7, Tathawade, Off Mumbai-Bangalore Bypass, Pune - 411033",
+  "contact_number": "020-66741235",
+  "courses": "MBA, BBA, BCA, MCA, LLB, BBA+LLB, BA, MA, PhD",
+  "type": "Management",
+  "website": "https://www.sbup.edu.in"
+}
+]
