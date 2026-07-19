@@ -1,8 +1,14 @@
-// Auto-seed if database is empty
-const db = require('./db');
+const express = require('express');
+const cors = require('cors');
 const path = require('path');
-const colleges = require('./collegesData.json');
+const db = require('./db');
+const collegesRouter = require('./routes/colleges');
 
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+// Auto-seed if database is empty
+const colleges = require('./collegesData.json');
 const count = db.prepare('SELECT COUNT(*) as c FROM colleges').get().c;
 if (count === 0) {
   const insert = db.prepare(`
@@ -14,13 +20,7 @@ if (count === 0) {
   });
   insertMany(colleges);
   console.log(`Auto-seeded ${colleges.length} colleges`);
-}const express = require('express');
-const cors = require('cors');
-const path = require('path');
-const collegesRouter = require('./routes/colleges');
-
-const app = express();
-const PORT = process.env.PORT || 3000;
+}
 
 app.use(cors());
 app.use(express.json());
